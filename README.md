@@ -2,6 +2,8 @@
 
 Drop a **CSV / JSON / Excel** file in the browser and instantly get per-column statistics, distribution charts, and a data preview. No database, no signup — datasets live in-memory for 1 hour and are auto-cleaned.
 
+**Live demo:** https://mirekdev.pl/analyzer/
+
 ![Python](https://img.shields.io/badge/Python-3.12-3776ab?logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?logo=fastapi)
 ![pandas](https://img.shields.io/badge/pandas-2.2-150458?logo=pandas)
