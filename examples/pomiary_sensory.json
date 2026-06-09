@@ -1,0 +1,3072 @@
+{
+  "dataset": "Pomiary jakości powietrza",
+  "version": "2.3",
+  "generated_at": "2024-09-01T08:00:00",
+  "units": {
+    "temperature": "°C",
+    "pressure": "hPa",
+    "pm25": "µg/m³"
+  },
+  "readings": [
+    {
+      "reading_id": 1,
+      "device": "sensor-09",
+      "timestamp": "2024-07-09T10:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.13644041147072,
+        "lon": 17.017972067762397
+      },
+      "measurements": {
+        "temperature_c": 31.7,
+        "humidity_pct": 45,
+        "pressure_hpa": 995.1,
+        "pm25": 9.5
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 2,
+      "device": "sensor-09",
+      "timestamp": "2024-08-20T02:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.3365606373213,
+        "lon": 18.614426735936892
+      },
+      "measurements": {
+        "temperature_c": 22.5,
+        "humidity_pct": 81,
+        "pressure_hpa": 1010.0,
+        "pm25": 5.5
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 3,
+      "device": "sensor-08",
+      "timestamp": "2024-07-15T07:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.34569885592829,
+        "lon": 18.660626052240378
+      },
+      "measurements": {
+        "temperature_c": 20.4,
+        "humidity_pct": 71,
+        "pressure_hpa": 1027.3,
+        "pm25": 26.8
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 4,
+      "device": "sensor-12",
+      "timestamp": "2024-08-11T21:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.38992343425283,
+        "lon": 16.913637345215168
+      },
+      "measurements": {
+        "temperature_c": 27.9,
+        "humidity_pct": 92,
+        "pressure_hpa": 1018.3,
+        "pm25": 25.4
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 5,
+      "device": "sensor-06",
+      "timestamp": "2024-07-28T11:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.31096045894913,
+        "lon": 18.641654026943222
+      },
+      "measurements": {
+        "temperature_c": 15.4,
+        "humidity_pct": 33,
+        "pressure_hpa": 1013.9,
+        "pm25": 22.7
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 6,
+      "device": "sensor-10",
+      "timestamp": "2024-06-20T10:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.43214001122963,
+        "lon": 16.938352327704763
+      },
+      "measurements": {
+        "temperature_c": 12.1,
+        "humidity_pct": 78,
+        "pressure_hpa": 995.9,
+        "pm25": 55.1
+      },
+      "battery_ok": false
+    },
+    {
+      "reading_id": 7,
+      "device": "sensor-04",
+      "timestamp": "2024-06-02T14:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.22410385661847,
+        "lon": 21.001878029816922
+      },
+      "measurements": {
+        "temperature_c": 17.9,
+        "humidity_pct": 56,
+        "pressure_hpa": 1006.4,
+        "pm25": 62.4
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 8,
+      "device": "sensor-12",
+      "timestamp": "2024-06-12T18:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.23186832115601,
+        "lon": 21.016088677290867
+      },
+      "measurements": {
+        "temperature_c": 32.0,
+        "humidity_pct": 91,
+        "pressure_hpa": 1011.0,
+        "pm25": 26.5
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 9,
+      "device": "sensor-06",
+      "timestamp": "2024-07-17T14:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.39542869886448,
+        "lon": 16.957198978414873
+      },
+      "measurements": {
+        "temperature_c": 25.3,
+        "humidity_pct": 63,
+        "pressure_hpa": 1014.4,
+        "pm25": 17.0
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 10,
+      "device": "sensor-05",
+      "timestamp": "2024-06-20T04:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.454148554632745,
+        "lon": 16.978226029647598
+      },
+      "measurements": {
+        "temperature_c": 26.5,
+        "humidity_pct": 56,
+        "pressure_hpa": 1017.6,
+        "pm25": 40.1
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 11,
+      "device": "sensor-12",
+      "timestamp": "2024-06-24T08:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.388778937549795,
+        "lon": 16.937347680387365
+      },
+      "measurements": {
+        "temperature_c": 21.0,
+        "humidity_pct": 80,
+        "pressure_hpa": 1022.7,
+        "pm25": 76.5
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 12,
+      "device": "sensor-01",
+      "timestamp": "2024-06-25T13:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.39553137176792,
+        "lon": 18.607902943600983
+      },
+      "measurements": {
+        "temperature_c": 30.2,
+        "humidity_pct": 62,
+        "pressure_hpa": 1019.9,
+        "pm25": 18.7
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 13,
+      "device": "sensor-09",
+      "timestamp": "2024-07-30T09:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.327162146670574,
+        "lon": 18.610922658157108
+      },
+      "measurements": {
+        "temperature_c": 25.8,
+        "humidity_pct": 60,
+        "pressure_hpa": 999.7,
+        "pm25": 54.2
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 14,
+      "device": "sensor-01",
+      "timestamp": "2024-06-09T13:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.051330136604825,
+        "lon": 19.961735805625025
+      },
+      "measurements": {
+        "temperature_c": 10.4,
+        "humidity_pct": 47,
+        "pressure_hpa": 990.2,
+        "pm25": 44.9
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 15,
+      "device": "sensor-11",
+      "timestamp": "2024-08-19T18:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.148064745723005,
+        "lon": 17.037569964436774
+      },
+      "measurements": {
+        "temperature_c": 23.6,
+        "humidity_pct": 66,
+        "pressure_hpa": 1002.8,
+        "pm25": 52.4
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 16,
+      "device": "sensor-11",
+      "timestamp": "2024-07-19T23:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.2032220199221,
+        "lon": 21.033868652226865
+      },
+      "measurements": {
+        "temperature_c": 28.4,
+        "humidity_pct": 34,
+        "pressure_hpa": 1026.5,
+        "pm25": 15.7
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 17,
+      "device": "sensor-01",
+      "timestamp": "2024-08-11T08:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.049699457427835,
+        "lon": 19.939538389732178
+      },
+      "measurements": {
+        "temperature_c": 30.5,
+        "humidity_pct": 67,
+        "pressure_hpa": 1025.1,
+        "pm25": 2.7
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 18,
+      "device": "sensor-06",
+      "timestamp": "2024-06-25T06:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.225434907815675,
+        "lon": 21.024131240951494
+      },
+      "measurements": {
+        "temperature_c": 20.6,
+        "humidity_pct": 47,
+        "pressure_hpa": 1024.0,
+        "pm25": 38.5
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 19,
+      "device": "sensor-06",
+      "timestamp": "2024-06-14T20:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.25311192338087,
+        "lon": 21.024828533870927
+      },
+      "measurements": {
+        "temperature_c": 25.2,
+        "humidity_pct": 31,
+        "pressure_hpa": 1019.5,
+        "pm25": 63.7
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 20,
+      "device": "sensor-03",
+      "timestamp": "2024-07-23T03:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.09561465042735,
+        "lon": 19.9797042761784
+      },
+      "measurements": {
+        "temperature_c": 27.8,
+        "humidity_pct": 95,
+        "pressure_hpa": 1003.1,
+        "pm25": 33.3
+      },
+      "battery_ok": false
+    },
+    {
+      "reading_id": 21,
+      "device": "sensor-08",
+      "timestamp": "2024-06-28T14:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.10358253870014,
+        "lon": 19.890683012053955
+      },
+      "measurements": {
+        "temperature_c": 17.2,
+        "humidity_pct": 87,
+        "pressure_hpa": 1020.2,
+        "pm25": 76.4
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 22,
+      "device": "sensor-01",
+      "timestamp": "2024-06-23T07:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.42536833670702,
+        "lon": 16.949276859042275
+      },
+      "measurements": {
+        "temperature_c": 9.5,
+        "humidity_pct": 45,
+        "pressure_hpa": 1008.6,
+        "pm25": 14.5
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 23,
+      "device": "sensor-12",
+      "timestamp": "2024-06-11T00:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.36387113251994,
+        "lon": 18.694063562374588
+      },
+      "measurements": {
+        "temperature_c": 16.8,
+        "humidity_pct": 58,
+        "pressure_hpa": 998.8,
+        "pm25": 12.4
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 24,
+      "device": "sensor-06",
+      "timestamp": "2024-07-06T11:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.43019407268556,
+        "lon": 16.97127968882831
+      },
+      "measurements": {
+        "temperature_c": 26.2,
+        "humidity_pct": 57,
+        "pressure_hpa": 1020.5,
+        "pm25": 55.1
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 25,
+      "device": "sensor-09",
+      "timestamp": "2024-07-09T02:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.23281731240731,
+        "lon": 20.996178486852425
+      },
+      "measurements": {
+        "temperature_c": 30.0,
+        "humidity_pct": 44,
+        "pressure_hpa": 992.5,
+        "pm25": 44.7
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 26,
+      "device": "sensor-09",
+      "timestamp": "2024-06-13T18:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.37645371565827,
+        "lon": 16.965448600739496
+      },
+      "measurements": {
+        "temperature_c": 18.6,
+        "humidity_pct": 56,
+        "pressure_hpa": 1018.7,
+        "pm25": 40.1
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 27,
+      "device": "sensor-01",
+      "timestamp": "2024-07-09T16:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.07319443398211,
+        "lon": 17.031542457384464
+      },
+      "measurements": {
+        "temperature_c": 21.5,
+        "humidity_pct": 89,
+        "pressure_hpa": 1016.9,
+        "pm25": 26.0
+      },
+      "battery_ok": false
+    },
+    {
+      "reading_id": 28,
+      "device": "sensor-01",
+      "timestamp": "2024-08-03T15:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.3217901308673,
+        "lon": 18.607302952591546
+      },
+      "measurements": {
+        "temperature_c": 18.2,
+        "humidity_pct": 38,
+        "pressure_hpa": 1011.6,
+        "pm25": 6.7
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 29,
+      "device": "sensor-01",
+      "timestamp": "2024-06-25T11:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.10088669358193,
+        "lon": 17.066897206258346
+      },
+      "measurements": {
+        "temperature_c": 26.4,
+        "humidity_pct": 83,
+        "pressure_hpa": 1005.0,
+        "pm25": 71.5
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 30,
+      "device": "sensor-07",
+      "timestamp": "2024-06-07T20:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.12827303541015,
+        "lon": 17.056179253812545
+      },
+      "measurements": {
+        "temperature_c": 20.9,
+        "humidity_pct": 74,
+        "pressure_hpa": 994.7,
+        "pm25": 79.4
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 31,
+      "device": "sensor-12",
+      "timestamp": "2024-06-20T00:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.093482161166875,
+        "lon": 19.965617941485895
+      },
+      "measurements": {
+        "temperature_c": 31.5,
+        "humidity_pct": 89,
+        "pressure_hpa": 1016.9,
+        "pm25": 44.5
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 32,
+      "device": "sensor-04",
+      "timestamp": "2024-07-10T07:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.044615973498765,
+        "lon": 19.917564972779513
+      },
+      "measurements": {
+        "temperature_c": 30.5,
+        "humidity_pct": 44,
+        "pressure_hpa": 991.3,
+        "pm25": 53.5
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 33,
+      "device": "sensor-04",
+      "timestamp": "2024-06-18T14:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.18672909028895,
+        "lon": 21.019394414747936
+      },
+      "measurements": {
+        "temperature_c": 18.7,
+        "humidity_pct": 36,
+        "pressure_hpa": 999.8,
+        "pm25": 5.5
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 34,
+      "device": "sensor-04",
+      "timestamp": "2024-08-04T08:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.446373024267004,
+        "lon": 16.885644403502447
+      },
+      "measurements": {
+        "temperature_c": 20.1,
+        "humidity_pct": 67,
+        "pressure_hpa": 999.4,
+        "pm25": 73.5
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 35,
+      "device": "sensor-10",
+      "timestamp": "2024-08-05T22:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.42725319014369,
+        "lon": 16.912066511539297
+      },
+      "measurements": {
+        "temperature_c": 15.2,
+        "humidity_pct": 48,
+        "pressure_hpa": 1029.4,
+        "pm25": 42.7
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 36,
+      "device": "sensor-01",
+      "timestamp": "2024-07-18T12:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.39485202550267,
+        "lon": 18.687971389096386
+      },
+      "measurements": {
+        "temperature_c": 29.9,
+        "humidity_pct": 84,
+        "pressure_hpa": 1012.2,
+        "pm25": 5.7
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 37,
+      "device": "sensor-09",
+      "timestamp": "2024-06-28T04:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.12963084073091,
+        "lon": 17.030825917682957
+      },
+      "measurements": {
+        "temperature_c": 15.2,
+        "humidity_pct": 53,
+        "pressure_hpa": 1020.2,
+        "pm25": 38.9
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 38,
+      "device": "sensor-12",
+      "timestamp": "2024-06-13T07:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.38057761599349,
+        "lon": 18.69147411738159
+      },
+      "measurements": {
+        "temperature_c": 21.5,
+        "humidity_pct": 83,
+        "pressure_hpa": 1012.3,
+        "pm25": 12.5
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 39,
+      "device": "sensor-06",
+      "timestamp": "2024-07-26T04:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.017907043339484,
+        "lon": 19.934978682582926
+      },
+      "measurements": {
+        "temperature_c": 16.9,
+        "humidity_pct": 54,
+        "pressure_hpa": 992.1,
+        "pm25": 31.4
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 40,
+      "device": "sensor-02",
+      "timestamp": "2024-06-17T01:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.26046506178505,
+        "lon": 21.018758368882764
+      },
+      "measurements": {
+        "temperature_c": 24.1,
+        "humidity_pct": 57,
+        "pressure_hpa": 1009.2,
+        "pm25": 69.8
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 41,
+      "device": "sensor-04",
+      "timestamp": "2024-08-19T23:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.199002369763015,
+        "lon": 21.03414752030173
+      },
+      "measurements": {
+        "temperature_c": 25.9,
+        "humidity_pct": 91,
+        "pressure_hpa": 1026.6,
+        "pm25": 56.3
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 42,
+      "device": "sensor-04",
+      "timestamp": "2024-07-18T02:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.09216150088274,
+        "lon": 17.018305919752017
+      },
+      "measurements": {
+        "temperature_c": 19.2,
+        "humidity_pct": 75,
+        "pressure_hpa": 1002.3,
+        "pm25": 30.1
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 43,
+      "device": "sensor-02",
+      "timestamp": "2024-08-08T12:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.15813184568466,
+        "lon": 17.036949042202256
+      },
+      "measurements": {
+        "temperature_c": 28.2,
+        "humidity_pct": 56,
+        "pressure_hpa": 1004.8,
+        "pm25": 34.3
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 44,
+      "device": "sensor-12",
+      "timestamp": "2024-06-13T10:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.01162199010013,
+        "lon": 19.945331156354218
+      },
+      "measurements": {
+        "temperature_c": 22.0,
+        "humidity_pct": 83,
+        "pressure_hpa": 1001.8,
+        "pm25": 17.3
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 45,
+      "device": "sensor-04",
+      "timestamp": "2024-07-13T14:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.41506425325171,
+        "lon": 16.97434645450476
+      },
+      "measurements": {
+        "temperature_c": 16.1,
+        "humidity_pct": 92,
+        "pressure_hpa": 1028.7,
+        "pm25": 52.1
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 46,
+      "device": "sensor-12",
+      "timestamp": "2024-08-07T20:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.0452176168332,
+        "lon": 19.903995852858063
+      },
+      "measurements": {
+        "temperature_c": 21.1,
+        "humidity_pct": 53,
+        "pressure_hpa": 1026.7,
+        "pm25": 44.3
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 47,
+      "device": "sensor-09",
+      "timestamp": "2024-06-03T21:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.26390684935949,
+        "lon": 20.967433041144304
+      },
+      "measurements": {
+        "temperature_c": 27.6,
+        "humidity_pct": 36,
+        "pressure_hpa": 1020.6,
+        "pm25": 34.2
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 48,
+      "device": "sensor-02",
+      "timestamp": "2024-07-31T08:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.02510296464648,
+        "lon": 19.91187196724544
+      },
+      "measurements": {
+        "temperature_c": 18.9,
+        "humidity_pct": 37,
+        "pressure_hpa": 1014.7,
+        "pm25": 54.0
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 49,
+      "device": "sensor-11",
+      "timestamp": "2024-07-12T15:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.06157317668692,
+        "lon": 17.043221248501272
+      },
+      "measurements": {
+        "temperature_c": 17.9,
+        "humidity_pct": 32,
+        "pressure_hpa": 1011.2,
+        "pm25": 23.4
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 50,
+      "device": "sensor-09",
+      "timestamp": "2024-08-09T09:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.2497859076217,
+        "lon": 21.003057320867605
+      },
+      "measurements": {
+        "temperature_c": 30.6,
+        "humidity_pct": 52,
+        "pressure_hpa": 994.3,
+        "pm25": 9.5
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 51,
+      "device": "sensor-10",
+      "timestamp": "2024-07-15T22:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.03524181963147,
+        "lon": 19.925444110086058
+      },
+      "measurements": {
+        "temperature_c": 27.1,
+        "humidity_pct": 40,
+        "pressure_hpa": 1004.9,
+        "pm25": 33.7
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 52,
+      "device": "sensor-05",
+      "timestamp": "2024-07-29T08:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.09280620787134,
+        "lon": 19.898061691860658
+      },
+      "measurements": {
+        "temperature_c": 31.8,
+        "humidity_pct": 34,
+        "pressure_hpa": 993.7,
+        "pm25": 31.6
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 53,
+      "device": "sensor-11",
+      "timestamp": "2024-06-01T19:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.25028451500191,
+        "lon": 20.968268612250583
+      },
+      "measurements": {
+        "temperature_c": 28.3,
+        "humidity_pct": 72,
+        "pressure_hpa": 1012.6,
+        "pm25": 68.9
+      },
+      "battery_ok": false
+    },
+    {
+      "reading_id": 54,
+      "device": "sensor-01",
+      "timestamp": "2024-06-20T14:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.381141705588455,
+        "lon": 16.96681168905816
+      },
+      "measurements": {
+        "temperature_c": 29.3,
+        "humidity_pct": 90,
+        "pressure_hpa": 1000.8,
+        "pm25": 74.1
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 55,
+      "device": "sensor-09",
+      "timestamp": "2024-07-19T02:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.365810924047906,
+        "lon": 18.617935450322005
+      },
+      "measurements": {
+        "temperature_c": 28.4,
+        "humidity_pct": 32,
+        "pressure_hpa": 1028.5,
+        "pm25": 47.8
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 56,
+      "device": "sensor-02",
+      "timestamp": "2024-06-26T12:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.07624502507147,
+        "lon": 17.014047219430427
+      },
+      "measurements": {
+        "temperature_c": 28.0,
+        "humidity_pct": 79,
+        "pressure_hpa": 1017.1,
+        "pm25": 44.2
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 57,
+      "device": "sensor-12",
+      "timestamp": "2024-08-01T19:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.017842769101854,
+        "lon": 19.96454565612549
+      },
+      "measurements": {
+        "temperature_c": 16.3,
+        "humidity_pct": 42,
+        "pressure_hpa": 1007.5,
+        "pm25": 67.4
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 58,
+      "device": "sensor-10",
+      "timestamp": "2024-07-04T20:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.45689205272015,
+        "lon": 16.912637664697787
+      },
+      "measurements": {
+        "temperature_c": 23.2,
+        "humidity_pct": 87,
+        "pressure_hpa": 1009.6,
+        "pm25": 29.8
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 59,
+      "device": "sensor-03",
+      "timestamp": "2024-07-29T00:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.1185875121211,
+        "lon": 17.028007271353673
+      },
+      "measurements": {
+        "temperature_c": 26.5,
+        "humidity_pct": 67,
+        "pressure_hpa": 1021.9,
+        "pm25": 57.6
+      },
+      "battery_ok": false
+    },
+    {
+      "reading_id": 60,
+      "device": "sensor-07",
+      "timestamp": "2024-07-31T17:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.088389028187024,
+        "lon": 19.905427689060314
+      },
+      "measurements": {
+        "temperature_c": 17.4,
+        "humidity_pct": 76,
+        "pressure_hpa": 994.3,
+        "pm25": 2.4
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 61,
+      "device": "sensor-05",
+      "timestamp": "2024-06-09T17:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.31325070044942,
+        "lon": 18.618739178352786
+      },
+      "measurements": {
+        "temperature_c": 18.8,
+        "humidity_pct": 95,
+        "pressure_hpa": 1006.3,
+        "pm25": 4.0
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 62,
+      "device": "sensor-10",
+      "timestamp": "2024-07-22T00:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.258443872425275,
+        "lon": 21.046371817726822
+      },
+      "measurements": {
+        "temperature_c": 8.3,
+        "humidity_pct": 82,
+        "pressure_hpa": 1005.5,
+        "pm25": 8.6
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 63,
+      "device": "sensor-10",
+      "timestamp": "2024-07-15T11:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.02695829233924,
+        "lon": 19.928073202348877
+      },
+      "measurements": {
+        "temperature_c": 11.3,
+        "humidity_pct": 68,
+        "pressure_hpa": 1000.7,
+        "pm25": 13.4
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 64,
+      "device": "sensor-07",
+      "timestamp": "2024-06-26T13:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.348423131393396,
+        "lon": 18.607692136139516
+      },
+      "measurements": {
+        "temperature_c": 14.0,
+        "humidity_pct": 61,
+        "pressure_hpa": 1018.8,
+        "pm25": 40.7
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 65,
+      "device": "sensor-02",
+      "timestamp": "2024-06-12T13:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.09046579957513,
+        "lon": 17.084882346239457
+      },
+      "measurements": {
+        "temperature_c": 16.0,
+        "humidity_pct": 78,
+        "pressure_hpa": 1022.2,
+        "pm25": 27.7
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 66,
+      "device": "sensor-03",
+      "timestamp": "2024-06-26T15:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.39206651553751,
+        "lon": 16.97472789220161
+      },
+      "measurements": {
+        "temperature_c": 12.8,
+        "humidity_pct": 70,
+        "pressure_hpa": 997.1,
+        "pm25": 33.1
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 67,
+      "device": "sensor-10",
+      "timestamp": "2024-08-06T17:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.084242429678056,
+        "lon": 17.027605530232414
+      },
+      "measurements": {
+        "temperature_c": 27.6,
+        "humidity_pct": 80,
+        "pressure_hpa": 1004.6,
+        "pm25": 74.7
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 68,
+      "device": "sensor-03",
+      "timestamp": "2024-07-29T04:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.43676179077483,
+        "lon": 16.882691610867532
+      },
+      "measurements": {
+        "temperature_c": 25.5,
+        "humidity_pct": 56,
+        "pressure_hpa": 1007.5,
+        "pm25": 24.7
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 69,
+      "device": "sensor-11",
+      "timestamp": "2024-07-13T14:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.073917912269636,
+        "lon": 17.02028326425107
+      },
+      "measurements": {
+        "temperature_c": 14.1,
+        "humidity_pct": 49,
+        "pressure_hpa": 1018.6,
+        "pm25": 63.5
+      },
+      "battery_ok": false
+    },
+    {
+      "reading_id": 70,
+      "device": "sensor-08",
+      "timestamp": "2024-07-20T16:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.40008050973293,
+        "lon": 16.93066126430295
+      },
+      "measurements": {
+        "temperature_c": 30.1,
+        "humidity_pct": 83,
+        "pressure_hpa": 1011.7,
+        "pm25": 63.7
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 71,
+      "device": "sensor-10",
+      "timestamp": "2024-07-25T10:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.45144012487305,
+        "lon": 16.89093694252443
+      },
+      "measurements": {
+        "temperature_c": 14.0,
+        "humidity_pct": 75,
+        "pressure_hpa": 996.7,
+        "pm25": 49.8
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 72,
+      "device": "sensor-06",
+      "timestamp": "2024-08-22T09:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.139623106442734,
+        "lon": 17.00059445516061
+      },
+      "measurements": {
+        "temperature_c": 10.4,
+        "humidity_pct": 58,
+        "pressure_hpa": 1010.4,
+        "pm25": 42.5
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 73,
+      "device": "sensor-04",
+      "timestamp": "2024-07-09T00:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.3974119567805,
+        "lon": 16.926306320855275
+      },
+      "measurements": {
+        "temperature_c": 24.3,
+        "humidity_pct": 94,
+        "pressure_hpa": 996.0,
+        "pm25": 79.8
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 74,
+      "device": "sensor-07",
+      "timestamp": "2024-08-18T13:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.396172786568,
+        "lon": 18.611606933795898
+      },
+      "measurements": {
+        "temperature_c": 30.6,
+        "humidity_pct": 48,
+        "pressure_hpa": 1003.9,
+        "pm25": 28.8
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 75,
+      "device": "sensor-08",
+      "timestamp": "2024-06-30T17:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.40761625312091,
+        "lon": 16.923816593827304
+      },
+      "measurements": {
+        "temperature_c": 24.7,
+        "humidity_pct": 70,
+        "pressure_hpa": 992.7,
+        "pm25": 5.5
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 76,
+      "device": "sensor-06",
+      "timestamp": "2024-07-26T07:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.190936268178476,
+        "lon": 21.040005012575058
+      },
+      "measurements": {
+        "temperature_c": 30.3,
+        "humidity_pct": 61,
+        "pressure_hpa": 1010.6,
+        "pm25": 45.0
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 77,
+      "device": "sensor-08",
+      "timestamp": "2024-06-20T18:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.139775578830424,
+        "lon": 17.052976031887866
+      },
+      "measurements": {
+        "temperature_c": 12.5,
+        "humidity_pct": 85,
+        "pressure_hpa": 1005.8,
+        "pm25": 59.5
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 78,
+      "device": "sensor-10",
+      "timestamp": "2024-07-07T15:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.09888357803557,
+        "lon": 17.060473561595973
+      },
+      "measurements": {
+        "temperature_c": 12.9,
+        "humidity_pct": 38,
+        "pressure_hpa": 1013.1,
+        "pm25": 64.4
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 79,
+      "device": "sensor-06",
+      "timestamp": "2024-06-17T19:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.34575504222062,
+        "lon": 18.626235339545236
+      },
+      "measurements": {
+        "temperature_c": 28.7,
+        "humidity_pct": 70,
+        "pressure_hpa": 1013.9,
+        "pm25": 49.7
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 80,
+      "device": "sensor-06",
+      "timestamp": "2024-08-12T03:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.345786058617655,
+        "lon": 18.61725275130103
+      },
+      "measurements": {
+        "temperature_c": 24.2,
+        "humidity_pct": 68,
+        "pressure_hpa": 1026.7,
+        "pm25": 48.0
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 81,
+      "device": "sensor-02",
+      "timestamp": "2024-06-21T08:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.330538000253554,
+        "lon": 18.618304451833147
+      },
+      "measurements": {
+        "temperature_c": 24.6,
+        "humidity_pct": 95,
+        "pressure_hpa": 1005.5,
+        "pm25": 48.5
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 82,
+      "device": "sensor-03",
+      "timestamp": "2024-07-12T12:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.12355016420587,
+        "lon": 17.059343292652933
+      },
+      "measurements": {
+        "temperature_c": 23.5,
+        "humidity_pct": 52,
+        "pressure_hpa": 1012.2,
+        "pm25": 40.2
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 83,
+      "device": "sensor-08",
+      "timestamp": "2024-07-23T20:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.30536112626309,
+        "lon": 18.635903917217135
+      },
+      "measurements": {
+        "temperature_c": 8.2,
+        "humidity_pct": 47,
+        "pressure_hpa": 997.8,
+        "pm25": 31.9
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 84,
+      "device": "sensor-07",
+      "timestamp": "2024-07-29T10:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.10917258800241,
+        "lon": 17.061014237284578
+      },
+      "measurements": {
+        "temperature_c": 18.7,
+        "humidity_pct": 51,
+        "pressure_hpa": 993.3,
+        "pm25": 4.4
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 85,
+      "device": "sensor-01",
+      "timestamp": "2024-06-24T10:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.32248434166432,
+        "lon": 18.62886703101412
+      },
+      "measurements": {
+        "temperature_c": 26.7,
+        "humidity_pct": 93,
+        "pressure_hpa": 1012.0,
+        "pm25": 10.8
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 86,
+      "device": "sensor-06",
+      "timestamp": "2024-07-17T06:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.442261092779624,
+        "lon": 16.88416105222702
+      },
+      "measurements": {
+        "temperature_c": 25.3,
+        "humidity_pct": 57,
+        "pressure_hpa": 1029.6,
+        "pm25": 10.0
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 87,
+      "device": "sensor-05",
+      "timestamp": "2024-08-14T15:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.109931266927894,
+        "lon": 19.934973234283042
+      },
+      "measurements": {
+        "temperature_c": 16.4,
+        "humidity_pct": 41,
+        "pressure_hpa": 1007.6,
+        "pm25": 79.5
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 88,
+      "device": "sensor-04",
+      "timestamp": "2024-08-09T04:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.083761298200436,
+        "lon": 19.95891335871118
+      },
+      "measurements": {
+        "temperature_c": 28.7,
+        "humidity_pct": 84,
+        "pressure_hpa": 996.6,
+        "pm25": 12.9
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 89,
+      "device": "sensor-01",
+      "timestamp": "2024-07-19T15:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.045081547895286,
+        "lon": 19.918108501879022
+      },
+      "measurements": {
+        "temperature_c": 20.9,
+        "humidity_pct": 71,
+        "pressure_hpa": 1029.2,
+        "pm25": 24.8
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 90,
+      "device": "sensor-11",
+      "timestamp": "2024-08-09T13:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.36952251638143,
+        "lon": 16.97627719949938
+      },
+      "measurements": {
+        "temperature_c": 26.9,
+        "humidity_pct": 37,
+        "pressure_hpa": 1029.7,
+        "pm25": 69.6
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 91,
+      "device": "sensor-04",
+      "timestamp": "2024-06-13T11:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.08113948488392,
+        "lon": 19.972848180269864
+      },
+      "measurements": {
+        "temperature_c": 26.3,
+        "humidity_pct": 80,
+        "pressure_hpa": 1009.6,
+        "pm25": 47.0
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 92,
+      "device": "sensor-07",
+      "timestamp": "2024-07-09T13:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.06755162733318,
+        "lon": 17.069459863066765
+      },
+      "measurements": {
+        "temperature_c": 26.5,
+        "humidity_pct": 81,
+        "pressure_hpa": 1010.6,
+        "pm25": 23.7
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 93,
+      "device": "sensor-08",
+      "timestamp": "2024-08-21T02:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.34880444804377,
+        "lon": 18.658195554466896
+      },
+      "measurements": {
+        "temperature_c": 28.9,
+        "humidity_pct": 41,
+        "pressure_hpa": 1019.2,
+        "pm25": 37.8
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 94,
+      "device": "sensor-02",
+      "timestamp": "2024-08-07T21:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.353442446438756,
+        "lon": 18.62178299350152
+      },
+      "measurements": {
+        "temperature_c": 18.3,
+        "humidity_pct": 57,
+        "pressure_hpa": 1009.8,
+        "pm25": 27.2
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 95,
+      "device": "sensor-10",
+      "timestamp": "2024-06-12T03:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.41661421109171,
+        "lon": 16.92853379040085
+      },
+      "measurements": {
+        "temperature_c": 16.2,
+        "humidity_pct": 36,
+        "pressure_hpa": 991.8,
+        "pm25": 50.8
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 96,
+      "device": "sensor-02",
+      "timestamp": "2024-08-19T07:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.26576515999286,
+        "lon": 21.004128594887643
+      },
+      "measurements": {
+        "temperature_c": 8.0,
+        "humidity_pct": 84,
+        "pressure_hpa": 998.1,
+        "pm25": 55.7
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 97,
+      "device": "sensor-03",
+      "timestamp": "2024-08-14T14:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.39327255627259,
+        "lon": 18.627401945809527
+      },
+      "measurements": {
+        "temperature_c": 23.7,
+        "humidity_pct": 62,
+        "pressure_hpa": 993.3,
+        "pm25": 53.8
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 98,
+      "device": "sensor-07",
+      "timestamp": "2024-07-24T09:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.21055092448442,
+        "lon": 21.02994413715246
+      },
+      "measurements": {
+        "temperature_c": 13.6,
+        "humidity_pct": 41,
+        "pressure_hpa": 1018.1,
+        "pm25": 2.1
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 99,
+      "device": "sensor-10",
+      "timestamp": "2024-06-20T07:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.061944425463665,
+        "lon": 19.934506687677867
+      },
+      "measurements": {
+        "temperature_c": 8.2,
+        "humidity_pct": 73,
+        "pressure_hpa": 1022.7,
+        "pm25": 79.1
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 100,
+      "device": "sensor-08",
+      "timestamp": "2024-06-07T01:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.032894686745905,
+        "lon": 19.898933108099374
+      },
+      "measurements": {
+        "temperature_c": 27.3,
+        "humidity_pct": 43,
+        "pressure_hpa": 1002.5,
+        "pm25": 70.7
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 101,
+      "device": "sensor-11",
+      "timestamp": "2024-07-28T18:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.02428530668349,
+        "lon": 19.94305082765467
+      },
+      "measurements": {
+        "temperature_c": 8.2,
+        "humidity_pct": 51,
+        "pressure_hpa": 1007.6,
+        "pm25": 58.3
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 102,
+      "device": "sensor-07",
+      "timestamp": "2024-07-23T13:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.07865661698758,
+        "lon": 19.975996252460217
+      },
+      "measurements": {
+        "temperature_c": 10.1,
+        "humidity_pct": 42,
+        "pressure_hpa": 995.6,
+        "pm25": 11.6
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 103,
+      "device": "sensor-07",
+      "timestamp": "2024-06-27T20:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.37910766611981,
+        "lon": 18.624778637496355
+      },
+      "measurements": {
+        "temperature_c": 23.5,
+        "humidity_pct": 61,
+        "pressure_hpa": 1012.1,
+        "pm25": 48.8
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 104,
+      "device": "sensor-11",
+      "timestamp": "2024-08-14T17:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.21016493335772,
+        "lon": 21.011774912779725
+      },
+      "measurements": {
+        "temperature_c": 20.2,
+        "humidity_pct": 80,
+        "pressure_hpa": 1001.8,
+        "pm25": 6.3
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 105,
+      "device": "sensor-08",
+      "timestamp": "2024-07-03T22:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.021274366260386,
+        "lon": 19.939958254127266
+      },
+      "measurements": {
+        "temperature_c": 22.3,
+        "humidity_pct": 31,
+        "pressure_hpa": 1029.5,
+        "pm25": 74.8
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 106,
+      "device": "sensor-07",
+      "timestamp": "2024-07-02T04:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.41463562211613,
+        "lon": 16.897277031215076
+      },
+      "measurements": {
+        "temperature_c": 19.3,
+        "humidity_pct": 39,
+        "pressure_hpa": 990.7,
+        "pm25": 7.3
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 107,
+      "device": "sensor-01",
+      "timestamp": "2024-08-20T22:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.258928999899304,
+        "lon": 21.010661060427495
+      },
+      "measurements": {
+        "temperature_c": 23.1,
+        "humidity_pct": 94,
+        "pressure_hpa": 1020.7,
+        "pm25": 35.0
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 108,
+      "device": "sensor-09",
+      "timestamp": "2024-07-23T13:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.37526804438044,
+        "lon": 16.88835970737778
+      },
+      "measurements": {
+        "temperature_c": 9.9,
+        "humidity_pct": 56,
+        "pressure_hpa": 1029.0,
+        "pm25": 14.1
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 109,
+      "device": "sensor-11",
+      "timestamp": "2024-08-05T03:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.44345264691847,
+        "lon": 16.948105568470922
+      },
+      "measurements": {
+        "temperature_c": 9.6,
+        "humidity_pct": 85,
+        "pressure_hpa": 1019.2,
+        "pm25": 68.0
+      },
+      "battery_ok": false
+    },
+    {
+      "reading_id": 110,
+      "device": "sensor-07",
+      "timestamp": "2024-06-10T21:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.22533718422971,
+        "lon": 21.020883240442746
+      },
+      "measurements": {
+        "temperature_c": 15.4,
+        "humidity_pct": 52,
+        "pressure_hpa": 994.8,
+        "pm25": 57.2
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 111,
+      "device": "sensor-08",
+      "timestamp": "2024-08-21T07:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.04467051276789,
+        "lon": 19.941722284244737
+      },
+      "measurements": {
+        "temperature_c": 27.7,
+        "humidity_pct": 63,
+        "pressure_hpa": 996.7,
+        "pm25": 11.9
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 112,
+      "device": "sensor-12",
+      "timestamp": "2024-08-15T15:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.311805672028235,
+        "lon": 18.68998974265855
+      },
+      "measurements": {
+        "temperature_c": 16.0,
+        "humidity_pct": 84,
+        "pressure_hpa": 1000.9,
+        "pm25": 7.0
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 113,
+      "device": "sensor-11",
+      "timestamp": "2024-06-07T13:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.40961475689351,
+        "lon": 16.931078187942596
+      },
+      "measurements": {
+        "temperature_c": 9.3,
+        "humidity_pct": 51,
+        "pressure_hpa": 1004.7,
+        "pm25": 21.9
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 114,
+      "device": "sensor-11",
+      "timestamp": "2024-08-01T16:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.37153336035341,
+        "lon": 16.95407799624564
+      },
+      "measurements": {
+        "temperature_c": 8.1,
+        "humidity_pct": 31,
+        "pressure_hpa": 999.8,
+        "pm25": 38.8
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 115,
+      "device": "sensor-03",
+      "timestamp": "2024-08-19T11:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.10603421453944,
+        "lon": 19.893536357397487
+      },
+      "measurements": {
+        "temperature_c": 27.3,
+        "humidity_pct": 83,
+        "pressure_hpa": 999.0,
+        "pm25": 21.4
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 116,
+      "device": "sensor-05",
+      "timestamp": "2024-08-10T11:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.30778870699669,
+        "lon": 18.637280816673783
+      },
+      "measurements": {
+        "temperature_c": 20.0,
+        "humidity_pct": 36,
+        "pressure_hpa": 997.2,
+        "pm25": 64.7
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 117,
+      "device": "sensor-02",
+      "timestamp": "2024-08-14T20:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.106509417791685,
+        "lon": 17.01823068706209
+      },
+      "measurements": {
+        "temperature_c": 28.3,
+        "humidity_pct": 71,
+        "pressure_hpa": 993.5,
+        "pm25": 37.6
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 118,
+      "device": "sensor-10",
+      "timestamp": "2024-08-06T22:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.33039093072681,
+        "lon": 18.66227175238921
+      },
+      "measurements": {
+        "temperature_c": 19.1,
+        "humidity_pct": 93,
+        "pressure_hpa": 1029.9,
+        "pm25": 62.5
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 119,
+      "device": "sensor-04",
+      "timestamp": "2024-06-13T20:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.36063778827518,
+        "lon": 16.921003610956603
+      },
+      "measurements": {
+        "temperature_c": 13.6,
+        "humidity_pct": 74,
+        "pressure_hpa": 1015.4,
+        "pm25": 56.1
+      },
+      "battery_ok": false
+    },
+    {
+      "reading_id": 120,
+      "device": "sensor-01",
+      "timestamp": "2024-08-04T18:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.3657303850176,
+        "lon": 18.68490059877789
+      },
+      "measurements": {
+        "temperature_c": 25.5,
+        "humidity_pct": 43,
+        "pressure_hpa": 998.2,
+        "pm25": 78.7
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 121,
+      "device": "sensor-03",
+      "timestamp": "2024-07-31T17:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.2079825270869,
+        "lon": 20.964390026570317
+      },
+      "measurements": {
+        "temperature_c": 13.6,
+        "humidity_pct": 82,
+        "pressure_hpa": 1018.0,
+        "pm25": 31.1
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 122,
+      "device": "sensor-10",
+      "timestamp": "2024-06-09T03:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.23054277638607,
+        "lon": 21.02372156800327
+      },
+      "measurements": {
+        "temperature_c": 17.5,
+        "humidity_pct": 37,
+        "pressure_hpa": 1007.4,
+        "pm25": 77.2
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 123,
+      "device": "sensor-06",
+      "timestamp": "2024-08-19T00:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.38008168219995,
+        "lon": 18.670072560632153
+      },
+      "measurements": {
+        "temperature_c": 25.6,
+        "humidity_pct": 70,
+        "pressure_hpa": 1008.1,
+        "pm25": 20.2
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 124,
+      "device": "sensor-10",
+      "timestamp": "2024-06-10T07:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.025541055132194,
+        "lon": 19.906437498069977
+      },
+      "measurements": {
+        "temperature_c": 19.2,
+        "humidity_pct": 82,
+        "pressure_hpa": 994.8,
+        "pm25": 29.9
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 125,
+      "device": "sensor-05",
+      "timestamp": "2024-07-10T12:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.08650079269147,
+        "lon": 17.00199135563554
+      },
+      "measurements": {
+        "temperature_c": 11.8,
+        "humidity_pct": 68,
+        "pressure_hpa": 1023.1,
+        "pm25": 56.4
+      },
+      "battery_ok": false
+    },
+    {
+      "reading_id": 126,
+      "device": "sensor-03",
+      "timestamp": "2024-06-08T18:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.37111573982851,
+        "lon": 18.696840000417634
+      },
+      "measurements": {
+        "temperature_c": 17.5,
+        "humidity_pct": 36,
+        "pressure_hpa": 1017.1,
+        "pm25": 22.3
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 127,
+      "device": "sensor-07",
+      "timestamp": "2024-08-12T22:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.2252201169401,
+        "lon": 21.034807844720874
+      },
+      "measurements": {
+        "temperature_c": 14.0,
+        "humidity_pct": 89,
+        "pressure_hpa": 994.1,
+        "pm25": 63.9
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 128,
+      "device": "sensor-04",
+      "timestamp": "2024-06-12T03:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.19981330351805,
+        "lon": 21.000058180967155
+      },
+      "measurements": {
+        "temperature_c": 24.5,
+        "humidity_pct": 40,
+        "pressure_hpa": 1013.3,
+        "pm25": 22.2
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 129,
+      "device": "sensor-02",
+      "timestamp": "2024-06-17T20:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.270249608193325,
+        "lon": 21.0043431323836
+      },
+      "measurements": {
+        "temperature_c": 11.1,
+        "humidity_pct": 72,
+        "pressure_hpa": 994.9,
+        "pm25": 75.5
+      },
+      "battery_ok": false
+    },
+    {
+      "reading_id": 130,
+      "device": "sensor-07",
+      "timestamp": "2024-08-10T02:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.432443084713064,
+        "lon": 16.929612639121324
+      },
+      "measurements": {
+        "temperature_c": 17.2,
+        "humidity_pct": 84,
+        "pressure_hpa": 996.9,
+        "pm25": 18.7
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 131,
+      "device": "sensor-08",
+      "timestamp": "2024-08-15T09:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.31486314090688,
+        "lon": 18.66141065777777
+      },
+      "measurements": {
+        "temperature_c": 22.8,
+        "humidity_pct": 67,
+        "pressure_hpa": 1010.0,
+        "pm25": 70.9
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 132,
+      "device": "sensor-05",
+      "timestamp": "2024-07-03T16:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.1937236017132,
+        "lon": 20.97994578066666
+      },
+      "measurements": {
+        "temperature_c": 29.2,
+        "humidity_pct": 61,
+        "pressure_hpa": 1015.2,
+        "pm25": 64.6
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 133,
+      "device": "sensor-12",
+      "timestamp": "2024-07-01T15:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.10796844388881,
+        "lon": 17.06814351058355
+      },
+      "measurements": {
+        "temperature_c": 16.3,
+        "humidity_pct": 94,
+        "pressure_hpa": 1002.9,
+        "pm25": 23.1
+      },
+      "battery_ok": false
+    },
+    {
+      "reading_id": 134,
+      "device": "sensor-04",
+      "timestamp": "2024-06-03T12:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.449576478161426,
+        "lon": 16.957853828132848
+      },
+      "measurements": {
+        "temperature_c": 9.4,
+        "humidity_pct": 90,
+        "pressure_hpa": 1011.2,
+        "pm25": 61.8
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 135,
+      "device": "sensor-02",
+      "timestamp": "2024-06-22T03:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.07568644213762,
+        "lon": 19.91665270010657
+      },
+      "measurements": {
+        "temperature_c": 27.6,
+        "humidity_pct": 37,
+        "pressure_hpa": 1020.6,
+        "pm25": 75.9
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 136,
+      "device": "sensor-06",
+      "timestamp": "2024-08-19T19:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.14392222523059,
+        "lon": 17.074522090236627
+      },
+      "measurements": {
+        "temperature_c": 12.2,
+        "humidity_pct": 70,
+        "pressure_hpa": 1022.2,
+        "pm25": 56.4
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 137,
+      "device": "sensor-12",
+      "timestamp": "2024-07-30T18:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.215168214848305,
+        "lon": 21.016765136542624
+      },
+      "measurements": {
+        "temperature_c": 11.4,
+        "humidity_pct": 54,
+        "pressure_hpa": 1023.5,
+        "pm25": 65.2
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 138,
+      "device": "sensor-05",
+      "timestamp": "2024-06-15T23:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.40904364201275,
+        "lon": 16.88902573768509
+      },
+      "measurements": {
+        "temperature_c": 13.6,
+        "humidity_pct": 58,
+        "pressure_hpa": 990.8,
+        "pm25": 39.3
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 139,
+      "device": "sensor-04",
+      "timestamp": "2024-08-08T19:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.373048954561916,
+        "lon": 16.95169376326908
+      },
+      "measurements": {
+        "temperature_c": 30.1,
+        "humidity_pct": 71,
+        "pressure_hpa": 992.4,
+        "pm25": 13.5
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 140,
+      "device": "sensor-02",
+      "timestamp": "2024-08-12T05:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.06262948785773,
+        "lon": 19.926488985240876
+      },
+      "measurements": {
+        "temperature_c": 9.7,
+        "humidity_pct": 80,
+        "pressure_hpa": 1013.4,
+        "pm25": 28.3
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 141,
+      "device": "sensor-12",
+      "timestamp": "2024-08-20T22:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.05368683829296,
+        "lon": 19.95392659914543
+      },
+      "measurements": {
+        "temperature_c": 19.7,
+        "humidity_pct": 70,
+        "pressure_hpa": 997.0,
+        "pm25": 77.6
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 142,
+      "device": "sensor-06",
+      "timestamp": "2024-06-20T01:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.42655316694747,
+        "lon": 16.9614454236443
+      },
+      "measurements": {
+        "temperature_c": 17.1,
+        "humidity_pct": 67,
+        "pressure_hpa": 995.1,
+        "pm25": 58.8
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 143,
+      "device": "sensor-07",
+      "timestamp": "2024-08-12T14:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.45942831305476,
+        "lon": 16.976518394028755
+      },
+      "measurements": {
+        "temperature_c": 8.8,
+        "humidity_pct": 70,
+        "pressure_hpa": 1026.8,
+        "pm25": 77.5
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 144,
+      "device": "sensor-02",
+      "timestamp": "2024-08-19T22:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.40961850579131,
+        "lon": 16.913116842616606
+      },
+      "measurements": {
+        "temperature_c": 9.9,
+        "humidity_pct": 74,
+        "pressure_hpa": 1029.3,
+        "pm25": 15.1
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 145,
+      "device": "sensor-12",
+      "timestamp": "2024-07-28T04:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.243910268790486,
+        "lon": 21.048665351521784
+      },
+      "measurements": {
+        "temperature_c": 18.7,
+        "humidity_pct": 63,
+        "pressure_hpa": 998.4,
+        "pm25": 56.1
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 146,
+      "device": "sensor-12",
+      "timestamp": "2024-06-01T02:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.18481474577332,
+        "lon": 21.00382201413258
+      },
+      "measurements": {
+        "temperature_c": 18.1,
+        "humidity_pct": 51,
+        "pressure_hpa": 1025.4,
+        "pm25": 40.5
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 147,
+      "device": "sensor-07",
+      "timestamp": "2024-06-09T15:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.44288069775662,
+        "lon": 16.95887299944762
+      },
+      "measurements": {
+        "temperature_c": 21.9,
+        "humidity_pct": 58,
+        "pressure_hpa": 996.5,
+        "pm25": 7.7
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 148,
+      "device": "sensor-01",
+      "timestamp": "2024-06-28T04:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.32611277099823,
+        "lon": 18.61047250484988
+      },
+      "measurements": {
+        "temperature_c": 16.2,
+        "humidity_pct": 78,
+        "pressure_hpa": 996.4,
+        "pm25": 7.9
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 149,
+      "device": "sensor-06",
+      "timestamp": "2024-07-21T16:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.27852761001411,
+        "lon": 21.049322617264643
+      },
+      "measurements": {
+        "temperature_c": 24.9,
+        "humidity_pct": 85,
+        "pressure_hpa": 1027.7,
+        "pm25": 14.9
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 150,
+      "device": "sensor-01",
+      "timestamp": "2024-06-09T15:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.043109457944,
+        "lon": 19.987439842067648
+      },
+      "measurements": {
+        "temperature_c": 17.8,
+        "humidity_pct": 63,
+        "pressure_hpa": 1016.4,
+        "pm25": 25.2
+      },
+      "battery_ok": false
+    },
+    {
+      "reading_id": 151,
+      "device": "sensor-10",
+      "timestamp": "2024-07-17T21:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.143985450484564,
+        "lon": 17.005358993451672
+      },
+      "measurements": {
+        "temperature_c": 16.7,
+        "humidity_pct": 84,
+        "pressure_hpa": 993.5,
+        "pm25": 66.3
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 152,
+      "device": "sensor-04",
+      "timestamp": "2024-06-09T06:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.06257356927317,
+        "lon": 17.00708321916922
+      },
+      "measurements": {
+        "temperature_c": 15.0,
+        "humidity_pct": 40,
+        "pressure_hpa": 1008.9,
+        "pm25": 11.0
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 153,
+      "device": "sensor-08",
+      "timestamp": "2024-08-16T08:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.1261040054746,
+        "lon": 16.999113687755067
+      },
+      "measurements": {
+        "temperature_c": 21.1,
+        "humidity_pct": 53,
+        "pressure_hpa": 1004.8,
+        "pm25": 31.8
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 154,
+      "device": "sensor-05",
+      "timestamp": "2024-07-08T12:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.22650579561546,
+        "lon": 20.982624228028268
+      },
+      "measurements": {
+        "temperature_c": 14.4,
+        "humidity_pct": 37,
+        "pressure_hpa": 996.0,
+        "pm25": 56.3
+      },
+      "battery_ok": false
+    },
+    {
+      "reading_id": 155,
+      "device": "sensor-09",
+      "timestamp": "2024-07-06T07:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.397070553717356,
+        "lon": 18.65897264423036
+      },
+      "measurements": {
+        "temperature_c": 21.3,
+        "humidity_pct": 79,
+        "pressure_hpa": 1022.7,
+        "pm25": 34.7
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 156,
+      "device": "sensor-10",
+      "timestamp": "2024-08-15T05:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.08356420194824,
+        "lon": 17.019885210900718
+      },
+      "measurements": {
+        "temperature_c": 17.5,
+        "humidity_pct": 34,
+        "pressure_hpa": 1010.1,
+        "pm25": 72.2
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 157,
+      "device": "sensor-03",
+      "timestamp": "2024-06-11T06:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.454925481645155,
+        "lon": 16.924903973618804
+      },
+      "measurements": {
+        "temperature_c": 30.8,
+        "humidity_pct": 51,
+        "pressure_hpa": 1028.9,
+        "pm25": 65.1
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 158,
+      "device": "sensor-02",
+      "timestamp": "2024-07-29T07:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.10353932455325,
+        "lon": 17.089726922677876
+      },
+      "measurements": {
+        "temperature_c": 23.1,
+        "humidity_pct": 63,
+        "pressure_hpa": 1002.8,
+        "pm25": 58.7
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 159,
+      "device": "sensor-07",
+      "timestamp": "2024-07-18T11:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.2197354994357,
+        "lon": 20.992612680536975
+      },
+      "measurements": {
+        "temperature_c": 14.6,
+        "humidity_pct": 88,
+        "pressure_hpa": 1026.7,
+        "pm25": 3.0
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 160,
+      "device": "sensor-09",
+      "timestamp": "2024-08-06T16:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.40195938342252,
+        "lon": 16.921444239876898
+      },
+      "measurements": {
+        "temperature_c": 11.6,
+        "humidity_pct": 42,
+        "pressure_hpa": 1027.0,
+        "pm25": 45.9
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 161,
+      "device": "sensor-09",
+      "timestamp": "2024-08-15T02:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.33438691785775,
+        "lon": 18.64108900372992
+      },
+      "measurements": {
+        "temperature_c": 17.2,
+        "humidity_pct": 92,
+        "pressure_hpa": 1012.9,
+        "pm25": 38.9
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 162,
+      "device": "sensor-03",
+      "timestamp": "2024-07-23T18:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.120865526408565,
+        "lon": 17.059366125316707
+      },
+      "measurements": {
+        "temperature_c": 8.9,
+        "humidity_pct": 72,
+        "pressure_hpa": 1017.6,
+        "pm25": 5.8
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 163,
+      "device": "sensor-06",
+      "timestamp": "2024-06-02T17:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.333786608142695,
+        "lon": 18.679365205990564
+      },
+      "measurements": {
+        "temperature_c": 15.5,
+        "humidity_pct": 92,
+        "pressure_hpa": 1024.3,
+        "pm25": 55.4
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 164,
+      "device": "sensor-03",
+      "timestamp": "2024-06-26T15:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.107421942460334,
+        "lon": 19.934311061333144
+      },
+      "measurements": {
+        "temperature_c": 27.8,
+        "humidity_pct": 64,
+        "pressure_hpa": 1019.2,
+        "pm25": 49.2
+      },
+      "battery_ok": false
+    },
+    {
+      "reading_id": 165,
+      "device": "sensor-04",
+      "timestamp": "2024-08-17T22:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.14239694342552,
+        "lon": 17.064094479892
+      },
+      "measurements": {
+        "temperature_c": 26.2,
+        "humidity_pct": 77,
+        "pressure_hpa": 1022.8,
+        "pm25": 42.2
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 166,
+      "device": "sensor-12",
+      "timestamp": "2024-07-14T05:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.34033851410125,
+        "lon": 18.678051642962764
+      },
+      "measurements": {
+        "temperature_c": 20.6,
+        "humidity_pct": 33,
+        "pressure_hpa": 996.9,
+        "pm25": 70.3
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 167,
+      "device": "sensor-04",
+      "timestamp": "2024-06-03T19:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.225644866712805,
+        "lon": 21.051803106934113
+      },
+      "measurements": {
+        "temperature_c": 24.9,
+        "humidity_pct": 65,
+        "pressure_hpa": 1004.7,
+        "pm25": 38.2
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 168,
+      "device": "sensor-11",
+      "timestamp": "2024-06-03T14:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.20419380945896,
+        "lon": 21.008878673906658
+      },
+      "measurements": {
+        "temperature_c": 18.7,
+        "humidity_pct": 90,
+        "pressure_hpa": 1013.5,
+        "pm25": 29.3
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 169,
+      "device": "sensor-12",
+      "timestamp": "2024-08-10T21:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.368885053761595,
+        "lon": 18.628506937643476
+      },
+      "measurements": {
+        "temperature_c": 17.3,
+        "humidity_pct": 50,
+        "pressure_hpa": 1024.2,
+        "pm25": 62.8
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 170,
+      "device": "sensor-11",
+      "timestamp": "2024-06-20T05:00:00",
+      "location": {
+        "city": "Kraków",
+        "lat": 50.0777695246091,
+        "lon": 19.916908357926896
+      },
+      "measurements": {
+        "temperature_c": 17.8,
+        "humidity_pct": 32,
+        "pressure_hpa": 1024.6,
+        "pm25": 77.4
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 171,
+      "device": "sensor-03",
+      "timestamp": "2024-07-26T05:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.077320065648216,
+        "lon": 17.070086480832444
+      },
+      "measurements": {
+        "temperature_c": 13.4,
+        "humidity_pct": 69,
+        "pressure_hpa": 1018.5,
+        "pm25": 57.3
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 172,
+      "device": "sensor-06",
+      "timestamp": "2024-07-10T04:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.08519987092779,
+        "lon": 17.03666980154972
+      },
+      "measurements": {
+        "temperature_c": 24.3,
+        "humidity_pct": 80,
+        "pressure_hpa": 1013.4,
+        "pm25": 2.6
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 173,
+      "device": "sensor-09",
+      "timestamp": "2024-07-26T05:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.35937725425441,
+        "lon": 18.62826768778151
+      },
+      "measurements": {
+        "temperature_c": 24.4,
+        "humidity_pct": 91,
+        "pressure_hpa": 992.6,
+        "pm25": 79.1
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 174,
+      "device": "sensor-05",
+      "timestamp": "2024-07-26T23:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.37110937755718,
+        "lon": 18.68923737976809
+      },
+      "measurements": {
+        "temperature_c": 15.2,
+        "humidity_pct": 49,
+        "pressure_hpa": 1010.7,
+        "pm25": 20.7
+      },
+      "battery_ok": false
+    },
+    {
+      "reading_id": 175,
+      "device": "sensor-07",
+      "timestamp": "2024-07-27T08:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.39195857381877,
+        "lon": 16.89399295085764
+      },
+      "measurements": {
+        "temperature_c": 8.6,
+        "humidity_pct": 93,
+        "pressure_hpa": 1029.9,
+        "pm25": 22.2
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 176,
+      "device": "sensor-12",
+      "timestamp": "2024-06-04T00:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.11830237024134,
+        "lon": 17.089475373008877
+      },
+      "measurements": {
+        "temperature_c": 27.6,
+        "humidity_pct": 73,
+        "pressure_hpa": 1019.1,
+        "pm25": 19.3
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 177,
+      "device": "sensor-11",
+      "timestamp": "2024-07-01T14:00:00",
+      "location": {
+        "city": "Wrocław",
+        "lat": 51.110731485560684,
+        "lon": 17.07454192442446
+      },
+      "measurements": {
+        "temperature_c": 28.2,
+        "humidity_pct": 53,
+        "pressure_hpa": 1001.8,
+        "pm25": 38.7
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 178,
+      "device": "sensor-03",
+      "timestamp": "2024-08-20T19:00:00",
+      "location": {
+        "city": "Poznań",
+        "lat": 52.42797123692899,
+        "lon": 16.91356324632051
+      },
+      "measurements": {
+        "temperature_c": 10.1,
+        "humidity_pct": 75,
+        "pressure_hpa": 998.9,
+        "pm25": 70.0
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 179,
+      "device": "sensor-06",
+      "timestamp": "2024-06-23T05:00:00",
+      "location": {
+        "city": "Gdańsk",
+        "lat": 54.35855706952069,
+        "lon": 18.646376062818774
+      },
+      "measurements": {
+        "temperature_c": 10.8,
+        "humidity_pct": 36,
+        "pressure_hpa": 1024.7,
+        "pm25": 47.5
+      },
+      "battery_ok": true
+    },
+    {
+      "reading_id": 180,
+      "device": "sensor-08",
+      "timestamp": "2024-08-15T21:00:00",
+      "location": {
+        "city": "Warszawa",
+        "lat": 52.19945438049769,
+        "lon": 20.971981593718752
+      },
+      "measurements": {
+        "temperature_c": 24.3,
+        "humidity_pct": 68,
+        "pressure_hpa": 1006.5,
+        "pm25": 69.9
+      },
+      "battery_ok": true
+    }
+  ]
+}
