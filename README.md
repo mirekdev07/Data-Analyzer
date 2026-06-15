@@ -73,14 +73,7 @@ analyzer/
 │   │   ├── nginx-snippet.conf
 │   │   └── README.md
 │   └── README.md         # Sub-project README
-│
-└── examples/             # Sample datasets to try the app
-    ├── aktywnosc_fitness.csv    # Fitness activity (Polish headers)
-    ├── filmy.xlsx               # Movies
-    ├── pomiary_sensory.json     # Sensor readings
-    ├── pracownicy.xlsx          # Employees
-    ├── wydatki_domowe.csv       # Household expenses
-    └── zamowienia.json          # Orders
+
 ```
 
 ---
